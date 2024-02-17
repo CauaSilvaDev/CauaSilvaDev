@@ -4,8 +4,6 @@
   - Faculdade de Ciências da Computação - Estácio
   - Curso Web moderno completo com JavaScript + projetos - Udemy
 
-**E estou disponível para oportunidades profissionais.**
-
 ### 😄 Tenho conhecimento nas linguagens...
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30">
