@@ -18,7 +18,7 @@
 
 ### 📫 Como me contatar...
 <p align="left">
-  <a href="https://www.linkedin.com/in/cauasilvadev/">
+  <a href="https://www.linkedin.com/in/CauaSilvaDev/">
     <img src="https://i.ibb.co/v1VwRw4/icons8-linkedin-240.png" alt="LinkedIn" width="40">
   </a>
   <a href="mailto:cauamarinho.silva2017@gmail.com">
