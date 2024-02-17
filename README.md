@@ -4,7 +4,7 @@
   - Faculdade de Ciências da Computação - Estácio
   - Curso Web moderno completo com JavaScript + projetos - Udemy
 <p align="left">
-  <img src="https://cdn.portal.estacio.br/logotipo_marca_estacio_preto_HOME_d4bc9da518.svg" width="30">
+  <img src="http://www.sinaprobahia.com.br/wp-content/uploads/2018/11/estacio-logo-faculdade-4.jpg" width="30">
   <img src="https://s.yimg.com/fz/api/res/1.2/qdZlffgyJdDSRlieIoERmQ--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI0MDtxPTgwO3c9MjQw/https://s.yimg.com/zb/imgv1/cae1d314-f778-3f0f-baae-a2af463c042f/t_500x300" width="30">
 </p>
 
