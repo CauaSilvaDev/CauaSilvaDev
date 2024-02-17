@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Caua Silva
+# 👋 Hi, I’m Caua Silva
 - - 👋 Olá, eu sou o Caua Silva
   - 
 - 👀 I’m interested in ...
