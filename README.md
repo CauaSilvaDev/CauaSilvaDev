@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Caua Silva
 
 - 👀 I’m interested in ...
-###🌱 Atualmente estou aprendendo...
+- 🌱 **Atualmente estou aprendendo...**
 - Faculdade de Ciencias da computação - Estácio
 - Curso Web moderno completo com JavaScript + projetos - Udemy
 
