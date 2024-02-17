@@ -13,7 +13,7 @@
 
 ### 😄 Atualmente tenho conhecimento nas linguagens...
 <ul dir="auto">
-  <li>PHP, NODE.JS, JavaScript, HTML, CSS, MySQL, </li>
+  <li>PHP, NODE.JS, JavaScript, HTML, CSS e MySQL.</li>
 </ul>
 
 - 💞️ I’m looking to collaborate on ...
