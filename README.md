@@ -5,7 +5,7 @@
   - Curso Web moderno completo com JavaScript + projetos - Udemy
 <p align="left">
   <img src="http://www.sinaprobahia.com.br/wp-content/uploads/2018/11/estacio-logo-faculdade-4.jpg" width="85">
-  <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg">
+  <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg?v=3" width="85">
 </p>
 
 ### 😄 Tenho conhecimento nas linguagens...
