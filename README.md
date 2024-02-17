@@ -21,5 +21,7 @@
   <img src="https://i.ibb.co/tsYCNwb/icons8-instagram-240.png" width="40">
 </p>
 - Email: cauamarinho.silva2017@gmail.com
+- Linkedin: CauaSilvaDev
+- Instagram: cauams15
 
 <img src="https://raw.githubusercontent.com/Cauesilvaa/Cauesilvaa/4208b918028eca08af3abadeeabcabebcf8c9a71/github-contribution-grid-snake.svg">
