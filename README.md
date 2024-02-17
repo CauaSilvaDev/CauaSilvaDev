@@ -17,7 +17,7 @@ Não possui uma area profissional como desenvolvedor e estou disponivel no momen
 </p>
 
 ### 📫 Como me contatar...
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/cauasilvadev/">
     <img src="https://i.ibb.co/v1VwRw4/icons8-linkedin-240.png" alt="LinkedIn" width="40">
   </a>
