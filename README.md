@@ -3,10 +3,6 @@
 ### 🌱 Atualmente estou aprendendo...
   - Faculdade de Ciências da Computação - Estácio
   - Curso Web moderno completo com JavaScript + projetos - Udemy
-<p align="left">
-  <img src="http://www.sinaprobahia.com.br/wp-content/uploads/2018/11/estacio-logo-faculdade-4.jpg" width="85">
-  <img src="https://tse3.mm.bing.net/th?id=OIP.qdj9Wc1sSXiDj4dU3gtupwHaD4&pid=Api&P=0&h=180" width="85">
-</p>
 
 ### 😄 Tenho conhecimento nas linguagens...
 <p align="left">
