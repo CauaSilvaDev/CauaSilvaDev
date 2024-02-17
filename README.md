@@ -16,9 +16,9 @@
 
 ### 📫 Como me contatar...
 <p align="left">
-  <img src="https://github.com/CauaSilvaDev/CauaSilvaDev/assets/159513606/eba3bda2-7dec-479f-a773-a3deaa8ae425">
-  <img src="https://github.com/CauaSilvaDev/CauaSilvaDev/assets/159513606/141c0034-9ca6-4497-9146-8138e2d6d030">
-  <img src="https://github.com/CauaSilvaDev/CauaSilvaDev/assets/159513606/f43827b3-61d5-47e4-ac7d-8c321863fbc1">
+  <img src="https://i.ibb.co/v1VwRw4/icons8-linkedin-240.png">
+  <img src="https://i.ibb.co/tsYCNwb/icons8-instagram-240.png">
+  <img src="https://i.ibb.co/1Jndp01/icons8-gmail-240.png">
 </p>
 - Email: cauamarinho.silva2017@gmail.com
 
