@@ -11,7 +11,7 @@
   <li>Aprimorar meu conhecimento e habilidades no desenvolvimento de sistemas back-end.</li>
 </ul>
 
-😄 **Atualmente tenho conhecimento nas linguagens...
+### 😄 **Atualmente tenho conhecimento nas linguagens...
 <ul dir="auto">
   <li>PHP, NODE.JS, JavaScript, HTML, CSS, MySQL, </li>
 </ul>
