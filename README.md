@@ -1,14 +1,12 @@
 # 👋 Olá, eu sou o Caua Silva
 
 ### 🌱 Atualmente estou aprendendo...
-- <img src="https://cdn.portal.estacio.br/logotipo_marca_estacio_preto_HOME_d4bc9da518.svg" width="100">
   - Faculdade de Ciências da Computação - Estácio
-- <img src="https://s.yimg.com/fz/api/res/1.2/qdZlffgyJdDSRlieIoERmQ--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI0MDtxPTgwO3c9MjQw/https://s.yimg.com/zb/imgv1/cae1d314-f778-3f0f-baae-a2af463c042f/t_500x300" width="100">
   - Curso Web moderno completo com JavaScript + projetos - Udemy
-
-### 👀 Estou interessado em...
-- <img src="https://example.com/backend_icon.png" width="100">
-  - Aprimorar meu conhecimento e habilidades no desenvolvimento de sistemas back-end.
+<p align="left">
+  <img src="https://cdn.portal.estacio.br/logotipo_marca_estacio_preto_HOME_d4bc9da518.svg" width="30">
+  <img src="https://s.yimg.com/fz/api/res/1.2/qdZlffgyJdDSRlieIoERmQ--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI0MDtxPTgwO3c9MjQw/https://s.yimg.com/zb/imgv1/cae1d314-f778-3f0f-baae-a2af463c042f/t_500x300" width="30">
+</p>
 
 ### 😄 Tenho conhecimento nas linguagens...
 <p align="left">
