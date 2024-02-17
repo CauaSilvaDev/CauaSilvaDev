@@ -8,7 +8,12 @@
 
 ### 👀 **Estou interessado em...**
 <ul dir="auto">
-  <li>Estou interessado em aprimorar meu conhecimento e habilidades no desenvolvimento de sistemas back-end.</li>
+  <li>Aprimorar meu conhecimento e habilidades no desenvolvimento de sistemas back-end.</li>
+</ul>
+
+😄 **Atualmente tenho conhecimento nas linguagens...
+<ul dir="auto">
+  <li>PHP, NODE.JS, JavaScript, HTML, CSS, MySQL, </li>
 </ul>
 
 - 💞️ I’m looking to collaborate on ...
