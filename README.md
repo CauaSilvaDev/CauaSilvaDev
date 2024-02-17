@@ -17,8 +17,8 @@
 ### 📫 Como me contatar...
 <p align="left">
   <img src="https://i.ibb.co/v1VwRw4/icons8-linkedin-240.png" width="40">
-  <img src="https://i.ibb.co/tsYCNwb/icons8-instagram-240.png" width="40" style="margin-left: -10px">
   <img src="https://i.ibb.co/1Jndp01/icons8-gmail-240.png" width="40">
+  <img src="https://i.ibb.co/tsYCNwb/icons8-instagram-240.png" width="40">
 </p>
 - Email: cauamarinho.silva2017@gmail.com
 
