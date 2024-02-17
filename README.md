@@ -4,7 +4,7 @@
   - Faculdade de Ciências da Computação - Estácio
   - Curso Web moderno completo com JavaScript + projetos - Udemy
 
-- Atualmente estou disponível para oportunidades profissionais.
+**E estou disponível para oportunidades profissionais.**
 
 ### 😄 Tenho conhecimento nas linguagens...
 <p align="left">
