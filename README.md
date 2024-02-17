@@ -20,8 +20,11 @@
   <img src="https://i.ibb.co/1Jndp01/icons8-gmail-240.png" width="40">
   <img src="https://i.ibb.co/tsYCNwb/icons8-instagram-240.png" width="40">
 </p>
-- Email: cauamarinho.silva2017@gmail.com
-- Linkedin: CauaSilvaDev
-- Instagram: cauams15
+
+<ul>
+  <li>Email: cauamarinho.silva2017@gmail.com</li>
+  <li>Linkedin: CauaSilvaDev</li>
+  <li>Instagram: cauams15</li>
+</ul>
 
 <img src="https://raw.githubusercontent.com/Cauesilvaa/Cauesilvaa/4208b918028eca08af3abadeeabcabebcf8c9a71/github-contribution-grid-snake.svg">
