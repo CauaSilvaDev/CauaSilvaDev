@@ -35,4 +35,8 @@ Não possui uma area profissional como desenvolvedor e estou disponivel no momen
   <li>Instagram: cauams15</li>
 </ul>
 
+### 👨‍💻 Disponível e Não Trabalhando Atualmente
+- Estou atualmente disponível para oportunidades profissionais.
+- Não estou trabalhando no momento e estou buscando novas oportunidades para aplicar minhas habilidades de desenvolvimento.
+- 
 <img src="https://raw.githubusercontent.com/Cauesilvaa/Cauesilvaa/4208b918028eca08af3abadeeabcabebcf8c9a71/github-contribution-grid-snake.svg">
