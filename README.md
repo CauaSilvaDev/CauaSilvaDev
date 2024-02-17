@@ -16,3 +16,5 @@
 
 ### 📫 Como me contatar...
 - Email: cauamarinho.silva2017@gmail.com
+
+<img src="https://raw.githubusercontent.com/Cauesilvaa/Cauesilvaa/4208b918028eca08af3abadeeabcabebcf8c9a71/github-contribution-grid-snake.svg">
