@@ -6,6 +6,10 @@
   <li>Curso Web moderno completo com JavaScript + projetos - Udemy</li>
 </ul>
 
+👀 Estou interessado em...
+<ul dir="auto">
+  <li>Aprimorar meu conhecimento e desenvolver sistemas back-end</li>
+</ul>
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
