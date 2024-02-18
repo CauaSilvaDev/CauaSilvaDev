@@ -16,7 +16,7 @@
 
 ### 📫 Como me contatar...
 <p align="left">
-  <a href="https://www.linkedin.com/in/CauaSilvaDev/">
+  <a href="https://www.linkedin.com/in/cauadev">
     <img src="https://i.ibb.co/v1VwRw4/icons8-linkedin-240.png" alt="LinkedIn" width="40">
   </a>
   <a href="mailto:caua31102005@gmail.com">
@@ -29,7 +29,7 @@
 
 <ul>
   <li>Email: caua31102005@gmail.com</li>
-  <li>Linkedin: CauaSilvaDev</li>
+  <li>Linkedin: cauadev</li>
   <li>Instagram: cauams15</li>
 </ul>
 
